@@ -531,7 +531,35 @@ margin: 0px 0px;
 
     .differences__cards-item__button {
         font-size: 18px;
+        padding: 20px 20px;
     }
+
+    .differences__cards-item__button {
+        gap: 10px;
+
+
+
+    }
+
+    .differences__cards-item__button {
+        font-size: 16px;
+        gap: 20px;
+        line-height: 19px;
+        height: 54px;
+        width: 287px;
+        font-family: var(--ff-bebas-neue);
+        color: #fff;
+        background-color: #222222;
+        border: none;
+        display: flex;
+        text-align: start;
+        padding: 20px 40px 20px 20px;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+        cursor: pointer;
+    }
+
 }
 /* Pricing Styles */
 
